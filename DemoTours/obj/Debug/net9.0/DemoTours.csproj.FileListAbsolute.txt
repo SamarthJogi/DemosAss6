@@ -1,0 +1,17 @@
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/DemoTours
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/DemoTours.deps.json
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/DemoTours.runtimeconfig.json
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/DemoTours.dll
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/DemoTours.pdb
+/home/cdac/shubham/Dotnet/DemoTours/bin/Debug/net9.0/Assignment.dll
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.csproj.AssemblyReference.cache
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.AssemblyInfoInputs.cache
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.AssemblyInfo.cs
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.csproj.CoreCompileInputs.cache
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.csproj.Up2Date
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.dll
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/refint/DemoTours.dll
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.pdb
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/DemoTours.genruntimeconfig.cache
+/home/cdac/shubham/Dotnet/DemoTours/obj/Debug/net9.0/ref/DemoTours.dll

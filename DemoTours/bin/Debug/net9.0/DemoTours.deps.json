@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DemoTours/1.0.0": {
+        "dependencies": {
+          "MET.Tours.Cdac": "1.0.0"
+        },
+        "runtime": {
+          "DemoTours.dll": {}
+        }
+      },
+      "MET.Tours.Cdac/1.0.0": {
+        "runtime": {
+          "lib/net9.0/Assignment.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoTours/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MET.Tours.Cdac/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u9MOhiY8kse8JB4VYPBOyp0WnEJyLK6R+1dvwXLQpFC1aLmQi3Q41wp2fVnfRJ3H053ng4SD03/jj9w8IeGjCg==",
+      "path": "met.tours.cdac/1.0.0",
+      "hashPath": "met.tours.cdac.1.0.0.nupkg.sha512"
+    }
+  }
+}

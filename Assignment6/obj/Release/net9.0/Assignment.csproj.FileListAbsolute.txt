@@ -1,0 +1,14 @@
+/home/cdac/shubham/Dotnet/Assignment6/bin/Release/net9.0/Assignment
+/home/cdac/shubham/Dotnet/Assignment6/bin/Release/net9.0/Assignment.deps.json
+/home/cdac/shubham/Dotnet/Assignment6/bin/Release/net9.0/Assignment.runtimeconfig.json
+/home/cdac/shubham/Dotnet/Assignment6/bin/Release/net9.0/Assignment.dll
+/home/cdac/shubham/Dotnet/Assignment6/bin/Release/net9.0/Assignment.pdb
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.AssemblyInfoInputs.cache
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.AssemblyInfo.cs
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.csproj.CoreCompileInputs.cache
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.dll
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/refint/Assignment.dll
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.pdb
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/Assignment.genruntimeconfig.cache
+/home/cdac/shubham/Dotnet/Assignment6/obj/Release/net9.0/ref/Assignment.dll

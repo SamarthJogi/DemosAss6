@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "MET.Tours.Cdac/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Assignment.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Assignment.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MET.Tours.Cdac/1.0.0": {
+      "sha512": "u9MOhiY8kse8JB4VYPBOyp0WnEJyLK6R+1dvwXLQpFC1aLmQi3Q41wp2fVnfRJ3H053ng4SD03/jj9w8IeGjCg==",
+      "type": "package",
+      "path": "met.tours.cdac/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net9.0/Assignment.dll",
+        "lib/net9.0/Assignment.runtimeconfig.json",
+        "met.tours.cdac.1.0.0.nupkg.sha512",
+        "met.tours.cdac.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MET.Tours.Cdac >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/cdac/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/cdac/shubham/Dotnet/DemoTours/DemoTours.csproj",
+      "projectName": "DemoTours",
+      "projectPath": "/home/cdac/shubham/Dotnet/DemoTours/DemoTours.csproj",
+      "packagesPath": "/home/cdac/.nuget/packages/",
+      "outputPath": "/home/cdac/shubham/Dotnet/DemoTours/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/cdac/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "MET.Tours.Cdac": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/cdac/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
